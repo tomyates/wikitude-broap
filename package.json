@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.human.software/human-public/wikitude-broap.git"
+    "url": "git+https://github.com/tomyates/wikitude-broap.git"
   },
   "keywords": [
     "AR",
